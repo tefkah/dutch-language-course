@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dutch-language-course/static/css/main.5f361e03.chunk.css",
-    "main.js": "/dutch-language-course/static/js/main.8c3c276c.chunk.js",
-    "main.js.map": "/dutch-language-course/static/js/main.8c3c276c.chunk.js.map",
+    "main.js": "/dutch-language-course/static/js/main.31ff58e9.chunk.js",
+    "main.js.map": "/dutch-language-course/static/js/main.31ff58e9.chunk.js.map",
     "runtime-main.js": "/dutch-language-course/static/js/runtime-main.6abd1b0a.js",
     "runtime-main.js.map": "/dutch-language-course/static/js/runtime-main.6abd1b0a.js.map",
     "static/js/2.2830f16e.chunk.js": "/dutch-language-course/static/js/2.2830f16e.chunk.js",
     "static/js/2.2830f16e.chunk.js.map": "/dutch-language-course/static/js/2.2830f16e.chunk.js.map",
     "index.html": "/dutch-language-course/index.html",
-    "precache-manifest.906cc06c6b171ba70aabc5197cbcff38.js": "/dutch-language-course/precache-manifest.906cc06c6b171ba70aabc5197cbcff38.js",
+    "precache-manifest.74ed59d253e818c754b71a8178107db8.js": "/dutch-language-course/precache-manifest.74ed59d253e818c754b71a8178107db8.js",
     "service-worker.js": "/dutch-language-course/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/dutch-language-course/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.2830f16e.chunk.js.LICENSE.txt": "/dutch-language-course/static/js/2.2830f16e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.6abd1b0a.js",
     "static/js/2.2830f16e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8c3c276c.chunk.js"
+    "static/js/main.31ff58e9.chunk.js"
   ]
 }
