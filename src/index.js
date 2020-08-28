@@ -1,79 +1,74 @@
-import React, {Component} from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React, { Component } from "react";
+import ReactDOM from "react-dom";
+import "./assets/style.css";
+import QuizService from "./quizService"
+import QuestionBox from "./components/QuestionBox";
+import Result from "./components/Result";
+
+class Quiz extends Component {
+    state = {
+        questionBank: [],
+        score: 0,
+        responses: 0
+    };
+
+    getQuestions = () => {
+        QuizService().then(question => {
+            this.setState({
+                questionBank: question
+            });
+        });
+    };
+
+    computeAnswer = (answer, correctAnswer) => {
+        if (answer == correctAnswer) {
+            this.setState({
+                score: this.state.score + 1
+            });
+        }
+        this.setState({
+            responses: this.state.responses < 5 ? this.state.responses + 1 : 5
+        });
+    }
+
+    playAgain = () => {
+        this.getQuestions();
+        this.setState({
+            score:0,
+            responses:0
+        });
+    }
 
 
-const repeatSound = 'Repeat Sound';
-const opt1 = 'something';
-const opt2 = 'else';
-
-
-class Clicky extends Component {
-    playAudio() {
-        const audioEl = document.getElementsByClassName("audio-element")[0]
-        audioEl.play()
+    componentDidMount() {
+        this.getQuestions();
     }
 
     render() {
         return (
-            <div>
-                <button onClick={this.playAudio}>
-                    <span>Play Audio</span>
-                </button>
-                <audio className="audio-element">
-                    <source src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Nl-aap.ogg"></source>
-                </audio>
+            <div className="container">
+                <div className="title">Suppp</div>
+                {this.state.questionBank.length > 0 &&
+                    this.state.responses < 5 &&
+                    this.state.questionBank.map(
+                        ({question, answers, correct, questionId}) => (
+                            <QuestionBox
+                                question = {question}
+                                options={answers}
+                                key={questionId}
+                                selected={answer => this.computeAnswer(answer, correct)}
+                            />
+                        )
+                    )}
+                {this.state.responses === 5 ? (
+                  <Result score={this.state.score} playAgain={this.playAgain} />
+                  ) : null}
             </div>
-        )
+        );
     }
 }
-
-
-
-class Game extends Component {
-    constructor(props) {
-        super(props);
-    }
-
-    render(){
-        return(
-            <div className="game">
-                <div className="Interface">
-                    <Clicky/>
-                    <Clicky/>
-                    <Clicky/>
-                </div>
-            </div>
-        )
-    }
-}
-/*
-const button2 = (
-    <button>{opt2}</button>
-);
-
-const buttonRepeat = (
-    <button>{repeatSound}</button>
-);
-
-const element = (
-    <div>{button1}
-        {buttonRepeat}
-        {button2}
-    </div>
-    );
-*/
-
-
 
 ReactDOM.render(
-    <Game />,
-    document.getElementById('root')
+    <Quiz/>,
+    document.getElementById("root")
 );
-
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
