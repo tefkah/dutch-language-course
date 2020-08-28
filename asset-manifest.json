@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/dutch-language-course/static/css/main.5f361e03.chunk.css",
-    "main.js": "/dutch-language-course/static/js/main.5e036897.chunk.js",
-    "main.js.map": "/dutch-language-course/static/js/main.5e036897.chunk.js.map",
+    "main.css": "/dutch-language-course/static/css/main.0f93a89c.chunk.css",
+    "main.js": "/dutch-language-course/static/js/main.c40759c0.chunk.js",
+    "main.js.map": "/dutch-language-course/static/js/main.c40759c0.chunk.js.map",
     "runtime-main.js": "/dutch-language-course/static/js/runtime-main.6abd1b0a.js",
     "runtime-main.js.map": "/dutch-language-course/static/js/runtime-main.6abd1b0a.js.map",
-    "static/js/2.2830f16e.chunk.js": "/dutch-language-course/static/js/2.2830f16e.chunk.js",
-    "static/js/2.2830f16e.chunk.js.map": "/dutch-language-course/static/js/2.2830f16e.chunk.js.map",
+    "static/js/2.626e4f73.chunk.js": "/dutch-language-course/static/js/2.626e4f73.chunk.js",
+    "static/js/2.626e4f73.chunk.js.map": "/dutch-language-course/static/js/2.626e4f73.chunk.js.map",
     "index.html": "/dutch-language-course/index.html",
-    "precache-manifest.492794303b1967e8ae31872cad85c717.js": "/dutch-language-course/precache-manifest.492794303b1967e8ae31872cad85c717.js",
+    "precache-manifest.6ff3dd885a72d9c02a2544f22ceb974f.js": "/dutch-language-course/precache-manifest.6ff3dd885a72d9c02a2544f22ceb974f.js",
     "service-worker.js": "/dutch-language-course/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/dutch-language-course/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2830f16e.chunk.js.LICENSE.txt": "/dutch-language-course/static/js/2.2830f16e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/dutch-language-course/static/media/logo.5d5d9eef.svg"
+    "static/css/main.0f93a89c.chunk.css.map": "/dutch-language-course/static/css/main.0f93a89c.chunk.css.map",
+    "static/js/2.626e4f73.chunk.js.LICENSE.txt": "/dutch-language-course/static/js/2.626e4f73.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6abd1b0a.js",
-    "static/js/2.2830f16e.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5e036897.chunk.js"
+    "static/js/2.626e4f73.chunk.js",
+    "static/css/main.0f93a89c.chunk.css",
+    "static/js/main.c40759c0.chunk.js"
   ]
 }
