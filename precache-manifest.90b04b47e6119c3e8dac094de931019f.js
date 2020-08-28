@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db04d70c1006fcc57baa4d09cba404ea",
+    "revision": "74db851d0b003b566c4fc42e64d727d3",
     "url": "/dutch-language-course/index.html"
   },
   {
-    "revision": "2084fd1f704efe37e31c",
+    "revision": "59c47a181f47d53b0a51",
     "url": "/dutch-language-course/static/css/main.0f93a89c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dutch-language-course/static/js/2.626e4f73.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2084fd1f704efe37e31c",
-    "url": "/dutch-language-course/static/js/main.5253e97a.chunk.js"
+    "revision": "59c47a181f47d53b0a51",
+    "url": "/dutch-language-course/static/js/main.7fdee4cd.chunk.js"
   },
   {
     "revision": "1cf3f81eff88986b1c6c",
