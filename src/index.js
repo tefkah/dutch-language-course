@@ -22,7 +22,7 @@ class Quiz extends Component {
 
   computeAnswer = (answer) => {
       this.setState({
-        score: this.state.score + 1
+        score: this.state.score + answer
       });
 
     this.setState({
