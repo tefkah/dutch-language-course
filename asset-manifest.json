@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/dutch-language-course/static/css/main.0f93a89c.chunk.css",
-    "main.js": "/dutch-language-course/static/js/main.47d08d55.chunk.js",
-    "main.js.map": "/dutch-language-course/static/js/main.47d08d55.chunk.js.map",
+    "main.css": "/dutch-language-course/static/css/main.2aa2e89d.chunk.css",
+    "main.js": "/dutch-language-course/static/js/main.3e849150.chunk.js",
+    "main.js.map": "/dutch-language-course/static/js/main.3e849150.chunk.js.map",
     "runtime-main.js": "/dutch-language-course/static/js/runtime-main.6abd1b0a.js",
     "runtime-main.js.map": "/dutch-language-course/static/js/runtime-main.6abd1b0a.js.map",
-    "static/js/2.07a094a5.chunk.js": "/dutch-language-course/static/js/2.07a094a5.chunk.js",
-    "static/js/2.07a094a5.chunk.js.map": "/dutch-language-course/static/js/2.07a094a5.chunk.js.map",
+    "static/css/2.d4e7eff5.chunk.css": "/dutch-language-course/static/css/2.d4e7eff5.chunk.css",
+    "static/js/2.53fe983c.chunk.js": "/dutch-language-course/static/js/2.53fe983c.chunk.js",
+    "static/js/2.53fe983c.chunk.js.map": "/dutch-language-course/static/js/2.53fe983c.chunk.js.map",
     "index.html": "/dutch-language-course/index.html",
-    "precache-manifest.0b3162470bb561b7610467a8bbf591bd.js": "/dutch-language-course/precache-manifest.0b3162470bb561b7610467a8bbf591bd.js",
+    "precache-manifest.4544a41e845ec83960bc298849a1c3b7.js": "/dutch-language-course/precache-manifest.4544a41e845ec83960bc298849a1c3b7.js",
     "service-worker.js": "/dutch-language-course/service-worker.js",
-    "static/css/main.0f93a89c.chunk.css.map": "/dutch-language-course/static/css/main.0f93a89c.chunk.css.map",
-    "static/js/2.07a094a5.chunk.js.LICENSE.txt": "/dutch-language-course/static/js/2.07a094a5.chunk.js.LICENSE.txt"
+    "static/css/2.d4e7eff5.chunk.css.map": "/dutch-language-course/static/css/2.d4e7eff5.chunk.css.map",
+    "static/css/main.2aa2e89d.chunk.css.map": "/dutch-language-course/static/css/main.2aa2e89d.chunk.css.map",
+    "static/js/2.53fe983c.chunk.js.LICENSE.txt": "/dutch-language-course/static/js/2.53fe983c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6abd1b0a.js",
-    "static/js/2.07a094a5.chunk.js",
-    "static/css/main.0f93a89c.chunk.css",
-    "static/js/main.47d08d55.chunk.js"
+    "static/css/2.d4e7eff5.chunk.css",
+    "static/js/2.53fe983c.chunk.js",
+    "static/css/main.2aa2e89d.chunk.css",
+    "static/js/main.3e849150.chunk.js"
   ]
 }
