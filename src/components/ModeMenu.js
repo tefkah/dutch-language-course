@@ -7,11 +7,11 @@ import {Button, Row, Space, Card} from "antd"
 const selectGame = (props) => {
   if (props.modes[1] === 0) {
     return (
-      <div className="common">
-        <Space direction = "vertical" style={{width : '30%'}} >
-          <Row justify="center"><Button size = "large" block onClick={() => props.updateMode(1, 1)} type = "primary">Practice Spelling</Button></Row>
-          <Row justify="center"><Button size = "large" block> More buttons </Button></Row>
-          <Row justify="center"><Button size = "large" block onClick={props.goBack} danger>Go Back</Button></Row>
+      <div className="menu">
+        <Space direction = "vertical">
+          <Row className = "menu-row"><Button size = "large" block onClick={() => props.updateMode(1, 1)} type = "primary">Practice Spelling</Button></Row>
+          <Row className = "menu-row"><Button size = "large" block onClick={() => props.updateMode(1, 2)}> Practice Sound Recognition </Button></Row>
+          <Row className = "menu-row"><Button size = "large" block onClick={props.goBack} danger>Go Back</Button></Row>
         </Space>
       </div>
     );

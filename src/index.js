@@ -2,14 +2,16 @@ import React, {Component} from "react";
 import ReactDOM from "react-dom";
 import MainMenu from "./components/MainMenu";
 import ModeMenu from "./components/ModeMenu";
-import {PageHeader} from "antd";
+import {PageHeader, Layout} from "antd";
+
+const {Header, Content, Footer} = Layout;
 
 class Game extends Component {
   constructor(props) {
     super(props);
     this.state = {
       proficiency: Array(6).fill(null),
-      modes: [0, 0],
+      modes: [0, 0, false],
       selection: [],
       qBank: [],
       settings: [],
@@ -18,10 +20,11 @@ class Game extends Component {
     };
   }
 
-  updateMode = (a, b=0) => {
+  updateMode = (a, b=0, c = false) => {
     let modes = this.state.modes.slice();
     modes[0] = a;
     modes[1] = b;
+    modes[2] = c;
     this.setState({
       modes: modes,
     })
@@ -42,10 +45,14 @@ class Game extends Component {
     } else {
       modes[1] = 0;
     }
-    this.setGameOptions(1);
+    this.setGameOptions(0);
     this.setState({
       modes: modes,
     })
+  }
+
+  changeSettings = () => {
+    this.setGameOptions(0);
   }
 
   modeSwitch = (modeArray) => {
@@ -95,8 +102,10 @@ class Game extends Component {
   render () {
     return(
       <div className="Game">
-        <PageHeader title="Dutch Vowel App" subTitle="Made by Thomas Jorna"/>
-        {this.modeSwitch(this.state.modes)}
+            <PageHeader title="Dutch Vowel App" subTitle="Made by Thomas Jorna"/>
+
+            {this.modeSwitch(this.state.modes)}
+
       </div>
     );
   }
