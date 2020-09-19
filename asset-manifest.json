@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/dutch-language-course/static/css/main.09d89951.chunk.css",
-    "main.js": "/dutch-language-course/static/js/main.e1d7d4d2.chunk.js",
-    "main.js.map": "/dutch-language-course/static/js/main.e1d7d4d2.chunk.js.map",
+    "main.js": "/dutch-language-course/static/js/main.afc5f160.chunk.js",
+    "main.js.map": "/dutch-language-course/static/js/main.afc5f160.chunk.js.map",
     "runtime-main.js": "/dutch-language-course/static/js/runtime-main.6abd1b0a.js",
     "runtime-main.js.map": "/dutch-language-course/static/js/runtime-main.6abd1b0a.js.map",
     "static/css/2.d4e7eff5.chunk.css": "/dutch-language-course/static/css/2.d4e7eff5.chunk.css",
-    "static/js/2.044d2e29.chunk.js": "/dutch-language-course/static/js/2.044d2e29.chunk.js",
-    "static/js/2.044d2e29.chunk.js.map": "/dutch-language-course/static/js/2.044d2e29.chunk.js.map",
+    "static/js/2.b13d3e5b.chunk.js": "/dutch-language-course/static/js/2.b13d3e5b.chunk.js",
+    "static/js/2.b13d3e5b.chunk.js.map": "/dutch-language-course/static/js/2.b13d3e5b.chunk.js.map",
     "index.html": "/dutch-language-course/index.html",
-    "precache-manifest.9b0922b5130f1775dac6098d80f1ce99.js": "/dutch-language-course/precache-manifest.9b0922b5130f1775dac6098d80f1ce99.js",
+    "precache-manifest.fe83a71ebe3e5819ac05d4d0352367e3.js": "/dutch-language-course/precache-manifest.fe83a71ebe3e5819ac05d4d0352367e3.js",
     "service-worker.js": "/dutch-language-course/service-worker.js",
     "static/css/2.d4e7eff5.chunk.css.map": "/dutch-language-course/static/css/2.d4e7eff5.chunk.css.map",
     "static/css/main.09d89951.chunk.css.map": "/dutch-language-course/static/css/main.09d89951.chunk.css.map",
-    "static/js/2.044d2e29.chunk.js.LICENSE.txt": "/dutch-language-course/static/js/2.044d2e29.chunk.js.LICENSE.txt"
+    "static/js/2.b13d3e5b.chunk.js.LICENSE.txt": "/dutch-language-course/static/js/2.b13d3e5b.chunk.js.LICENSE.txt",
+    "static/media/correct.mp3": "/dutch-language-course/static/media/correct.b640140e.mp3",
+    "static/media/incorrect.mp3": "/dutch-language-course/static/media/incorrect.11f2ef09.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.6abd1b0a.js",
     "static/css/2.d4e7eff5.chunk.css",
-    "static/js/2.044d2e29.chunk.js",
+    "static/js/2.b13d3e5b.chunk.js",
     "static/css/main.09d89951.chunk.css",
-    "static/js/main.e1d7d4d2.chunk.js"
+    "static/js/main.afc5f160.chunk.js"
   ]
 }
