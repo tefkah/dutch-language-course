@@ -15,7 +15,7 @@ class Game extends Component {
       selection: [],
       qBank: [],
       settings: [],
-      gameOptions: [0],
+      gameOptions: [0, "a, aa"],
       points: [],
     };
   }
@@ -30,9 +30,10 @@ class Game extends Component {
     })
   }
 
-  setGameOptions = (numberOfQuestions) => {
+  setGameOptions = (numberOfQuestions, vowels="a, aa") => {
     let gameOptions = this.state.gameOptions.slice();
     gameOptions[0] = numberOfQuestions;
+    gameOptions[1] = vowels;
     this.setState({
       gameOptions: gameOptions,
     })
