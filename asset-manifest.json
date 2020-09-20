@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dutch-language-course/static/css/main.09d89951.chunk.css",
-    "main.js": "/dutch-language-course/static/js/main.afc5f160.chunk.js",
-    "main.js.map": "/dutch-language-course/static/js/main.afc5f160.chunk.js.map",
+    "main.css": "/dutch-language-course/static/css/main.83030bc2.chunk.css",
+    "main.js": "/dutch-language-course/static/js/main.31569d30.chunk.js",
+    "main.js.map": "/dutch-language-course/static/js/main.31569d30.chunk.js.map",
     "runtime-main.js": "/dutch-language-course/static/js/runtime-main.6abd1b0a.js",
     "runtime-main.js.map": "/dutch-language-course/static/js/runtime-main.6abd1b0a.js.map",
     "static/css/2.d4e7eff5.chunk.css": "/dutch-language-course/static/css/2.d4e7eff5.chunk.css",
     "static/js/2.b13d3e5b.chunk.js": "/dutch-language-course/static/js/2.b13d3e5b.chunk.js",
     "static/js/2.b13d3e5b.chunk.js.map": "/dutch-language-course/static/js/2.b13d3e5b.chunk.js.map",
     "index.html": "/dutch-language-course/index.html",
-    "precache-manifest.fe83a71ebe3e5819ac05d4d0352367e3.js": "/dutch-language-course/precache-manifest.fe83a71ebe3e5819ac05d4d0352367e3.js",
+    "precache-manifest.91ea521d0fb06bf8434becaeb16e83f1.js": "/dutch-language-course/precache-manifest.91ea521d0fb06bf8434becaeb16e83f1.js",
     "service-worker.js": "/dutch-language-course/service-worker.js",
     "static/css/2.d4e7eff5.chunk.css.map": "/dutch-language-course/static/css/2.d4e7eff5.chunk.css.map",
-    "static/css/main.09d89951.chunk.css.map": "/dutch-language-course/static/css/main.09d89951.chunk.css.map",
+    "static/css/main.83030bc2.chunk.css.map": "/dutch-language-course/static/css/main.83030bc2.chunk.css.map",
     "static/js/2.b13d3e5b.chunk.js.LICENSE.txt": "/dutch-language-course/static/js/2.b13d3e5b.chunk.js.LICENSE.txt",
     "static/media/correct.mp3": "/dutch-language-course/static/media/correct.b640140e.mp3",
     "static/media/incorrect.mp3": "/dutch-language-course/static/media/incorrect.11f2ef09.mp3"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.6abd1b0a.js",
     "static/css/2.d4e7eff5.chunk.css",
     "static/js/2.b13d3e5b.chunk.js",
-    "static/css/main.09d89951.chunk.css",
-    "static/js/main.afc5f160.chunk.js"
+    "static/css/main.83030bc2.chunk.css",
+    "static/js/main.31569d30.chunk.js"
   ]
 }
