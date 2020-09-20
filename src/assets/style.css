@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+/*Making menus centered and nice*/
+.menu-row{
+    max-width: 400px;
+    margin: auto;
+}
+
+.ant-slider{
+    flex-grow: 1;
+}
+/*
+.menu {
+    width: 100%;
+    margin: auto;
+}
+*/
+.menu {
+    display: flex;
+}
+
+.container {
+    display: flex;
+}
+
+.ant-space {
+    flex-grow: 2;
+}
+
+/*QuestionBox stuff */
+.questionBox {
+    max-width: 200px;
+}

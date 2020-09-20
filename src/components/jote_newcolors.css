@@ -1,0 +1,386 @@
+
+.header-nav-button  {
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    bottom: 75px;
+    right: 168px;
+}
+
+.txt-wdth-lmt {
+    max-width: 640px;
+}
+
+/* styling for boxed text */
+.sq-box-txt {
+    border-style:solid;
+    border-width:1px;
+    border-radius:2px;
+    padding:6px;
+}
+
+/* JOTE's vision homepage styling */
+.jotes-vission {
+    background-color:#29303c;
+    border-radius: 4px;
+    position: relative;
+    bottom: 33px;
+}
+
+/* Pubpub nav button hover style */
+.header-nav-button a:hover {color: #8dd7f2 !important;
+    background-color: #12799D !important;
+    padding-bottom: 0px !important;
+    border-radius: 3px;
+    border-width: 1px;
+    text-decoration:none}
+
+/* Don't show the hover button on mobile */
+.main-navigation .menu .menu-mobile > .header-nav-button {
+    display: none;
+}
+#menu-item-2688 a {
+    line-height: 38px;
+}
+
+/* change master head background color */
+#masthead, nav.main-navigation {
+    background-color: #8dd7f2
+}
+
+
+/* change color of menu when active page (small line) */
+.main-navigation .menu > ul > li.current-menu-item > a:after
+{background: #8dd7f2;
+}
+
+
+/* change background colour of call-for-papers*/
+.menu-button a {
+    background: #FFBA08;
+    color: #000000;
+    padding-bottom: 0px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
+/* change main titles font */
+.site-title, .site-description,
+h1, h2, h3, h4, .secondary-font {
+    font-family: futura, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #000000;
+
+}
+.main-navigation .menu ul li a {
+    text-transform: none;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.main-navigation .toggle-menu {
+    height: 40px;
+}
+
+.ham {
+    top: 20px;
+}
+
+/* subheading font size and padding */
+.page-inner-title .entry-header .entry-title {
+    font-size:22px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align:center;
+}
+
+/* subheading box */
+.inner-banner {background:#12799D;
+    padding:0px}
+
+/* change font body */
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* change footer background color */
+.site-footer {
+    background: #8dd7f2; }
+
+/* change hyperlink hover background colour */
+.main-navigation ul li:hover > a {
+    color:#8dd7f2;
+    background: #12799D;
+    padding-bottom: 0px ;
+}
+
+/* change hyperlink colour and make it bold*/
+body a{
+    color:#12799D;
+    font-weight: bold;
+}
+/* just dont make the title bold */
+.site-title a {
+    font-weight: 300;
+}
+
+/* change hyperlink behaviour*/
+.site-content
+a:hover {
+    color: #12799D;
+    text-decoration: underline;
+}
+
+/* change active menu color */
+.main-navigation li.current_page_item > a,
+.main-navigation li.current-menu-item > a,
+.main-navigation li.current_page_ancestor > a,
+    /*.main-navigation li.current-menu-ancestor > a */{
+    background: #12799D;
+    text-decoration: none;
+}
+
+/* sidebar: change colours */
+#secondary
+{
+    background: white;
+    border-left: 3px solid black;
+    padding-left: 20px;
+    padding-right: 20px
+}
+/* sidebar: change title */
+#secondary .widget-title
+{
+    color: black;
+    background: white;
+    text-transform: capitalize;
+
+}
+
+/* sidebar: change colours hyperlinks */
+#secondary ul li a:hover, #secondary ul li a:link, #secondary ul li a:focus, #secondary ul .current-menu-item a, #secondary ul .current_page_item a, #secondary ul .current-menu-ancestor a, #secondary ul .current_page_ancestor a {
+    color: black;
+    text-transform: capitalize;
+    font-size: large
+}
+
+/* sidebar: change colours hyperlinks  */
+#secondary ul li a:hover,
+#secondary ul .current-menu-item a, #secondary ul .current_page_item a, #secondary ul .current-menu-ancestor a, #secondary ul .current_page_ancestor a {
+    color: #12799D;
+    text-transform: capitalize;
+;
+}
+
+/* make 'about' in front page disapear  */
+
+.section-title {display:none}
+
+/* sidebar: change colours hyperlinks  */
+#secondary .tm-article-author .posts-date .tm-article span { display:none}
+
+
+
+/* editorial: change colours hyperlinks  */
+.archive .site-content
+a:link {
+    color: black;
+}
+.archive .site-content
+a:hover {
+    color: #12799D;
+    text-decoration: underline;
+}
+
+/* title web: no color chage  */
+.site-title a:hover
+{
+    color:black;
+    text-decoration:none
+}
+
+
+
+
+
+/* masterhead: navigation menu before title  */
+.navigation-area {
+    z-index:170;
+    margin:0 auto;
+    width:100%;
+    position:flexible;
+    top:0;
+    left:0;
+    right:0;
+    text-align: center;
+
+}
+
+.navigation-area .menu ul li a{
+    line-height: 40px;
+}
+
+/* Make the multiline elements small I don't know how to do this smartly */
+
+#menu-item-567 a, #menu-item-1816 a, #menu-item-2208 a, #menu-item-2561 a {
+    line-height: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+
+
+/*masterhead: align the menu to the left*/
+
+.main-navigation .menu > ul {
+    padding-left: 4%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+
+
+/* homepage: add padding on sides  */
+.entry-content {
+    padding-left:4%;
+    padding-right:4%;
+}
+
+/* made the scroll up thing on the right color (our blue)  */
+#scroll-up {background:#8dd7f2
+}
+
+/* made the big footer disappear  */
+.footer-bottom {display:none}
+
+/* not sure what this does? */
+.wp-block-cover__inner-container {
+    position:relative;
+    top:80px
+}
+
+/* Hide the preloader */
+.preloader {
+    display: none;
+}
+
+/* Remove the navigation bar underline for each item */
+.main-navigation .menu ul > li > a:after {
+    display: none;
+}
+
+/* Change the navigation bar border (white line) */
+.navigation-area {
+    border-color: #12799D;
+    border-top-width: 1px;
+}
+
+.navigation-area {
+    border-bottom: 0;
+}
+
+/* Hide search bar */
+
+
+/* Remove brown from navigation bar link click */
+a:hover, a:focus, a:active {
+    color: #12799D;
+}
+
+/* Correctly align Prof. Harry Collins image */
+.wp-block-media-text.alignwide {
+    margin: 0;
+}
+
+.site-branding a{
+    color: #000000;
+}
+.site-branding {
+    margin-bottom: 10px;
+    text-align: left;
+    padding-left: 4%;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.custom-logo-link {
+    width: 100px;
+}
+
+.site-branding .site-title   {
+    font-size: 25px;
+    padding-left: 20px;
+    display: flex;
+    align-items: flex-end;
+    line-height:20px
+}
+
+.site-header.nav-affix .navigation-area {
+    background:#8dd7f2;
+}
+
+.recent-blog {margin:1px}
+
+/*Make text in PubPub link box black */
+#pubbox a{
+    color: #000000;
+}
+
+.main-navigation .menu ul li i {
+    padding-right: 0px;
+}
+
+.ion-ios-arrow-down::before {
+}
+
+.main-navigation .menu ul li a {
+    padding-left: 15px;
+    padding-right: 10px;
+
+}
+
+/* make header smaller at bottom */
+.header-middle{
+    padding-bottom: 33px;
+    padding-top: 20px;
+}
+
+/*get rid of weird line at the top */
+.top-bar {
+    display: none;
+}
+
+/* get rid of arrow in sub menu */
+
+.main-navigation .menu ul ul a {
+    /*content: "";*/
+    padding-left: 35px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-transform: none;
+}
+
+.sub-menu li{
+    padding-left: 5x;
+}
+/* make sure text is always visible */
+
+@font-face {
+    font-feature-settings: swap;
+}
+
+body, button, input, select, textarea {
+    color: #3d3e40;
+    font-size: 16px;
+    line-height: 1.6;
+    font-family: 'Source Sans Pro',sans-serif;
+    font-weight: 400;
+}

@@ -1,0 +1,1576 @@
+{
+  "a, aa": [
+    {
+      "options": [
+        "man",
+        "maan"
+      ],
+      "questionId": 464
+    },
+    {
+      "options": [
+        "mand",
+        "maand"
+      ],
+      "questionId": 465
+    },
+    {
+      "options": [
+        "plat",
+        "plaat"
+      ],
+      "questionId": 621
+    },
+    {
+      "options": [
+        "vak",
+        "vaak"
+      ],
+      "questionId": 809
+    },
+    {
+      "options": [
+        "zak",
+        "zaak"
+      ],
+      "questionId": 957
+    }
+  ],
+  "a, e": [
+    {
+      "options": [
+        "bad",
+        "bed"
+      ],
+      "questionId": 45
+    },
+    {
+      "options": [
+        "bal",
+        "bel"
+      ],
+      "questionId": 59
+    },
+    {
+      "options": [
+        "acht",
+        "echt"
+      ],
+      "questionId": 183
+    },
+    {
+      "options": [
+        "hart",
+        "hert"
+      ],
+      "questionId": 310
+    },
+    {
+      "options": [
+        "nat",
+        "net"
+      ],
+      "questionId": 534
+    },
+    {
+      "options": [
+        "pan",
+        "pen"
+      ],
+      "questionId": 612
+    }
+  ],
+  "a, ee": [
+    {
+      "options": [
+        "hal",
+        "heel"
+      ],
+      "questionId": 300
+    },
+    {
+      "options": [
+        "na",
+        "nee"
+      ],
+      "questionId": 529
+    }
+  ],
+  "a, i": [
+    {
+      "options": [
+        "dak",
+        "dik"
+      ],
+      "questionId": 156
+    },
+    {
+      "options": [
+        "dat",
+        "dit"
+      ],
+      "questionId": 158
+    },
+    {
+      "options": [
+        "kap",
+        "kip"
+      ],
+      "questionId": 375
+    },
+    {
+      "options": [
+        "kast",
+        "kist"
+      ],
+      "questionId": 376
+    },
+    {
+      "options": [
+        "man",
+        "min"
+      ],
+      "questionId": 499
+    },
+    {
+      "options": [
+        "wassen",
+        "wissen"
+      ],
+      "questionId": 949
+    },
+    {
+      "options": [
+        "wat",
+        "wit"
+      ],
+      "questionId": 950
+    }
+  ],
+  "a, ie": [
+    {
+      "options": [
+        "nat",
+        "niet"
+      ],
+      "questionId": 537
+    },
+    {
+      "options": [
+        "vlag",
+        "vlieg"
+      ],
+      "questionId": 878
+    },
+    {
+      "options": [
+        "zak",
+        "ziek"
+      ],
+      "questionId": 971
+    }
+  ],
+  "a, o": [
+    {
+      "options": [
+        "dragen",
+        "drogen"
+      ],
+      "questionId": 174
+    },
+    {
+      "options": [
+        "graf",
+        "grof"
+      ],
+      "questionId": 282
+    },
+    {
+      "options": [
+        "hand",
+        "hond"
+      ],
+      "questionId": 322
+    },
+    {
+      "options": [
+        "kap",
+        "kop"
+      ],
+      "questionId": 400
+    },
+    {
+      "options": [
+        "kast",
+        "kost"
+      ],
+      "questionId": 403
+    },
+    {
+      "options": [
+        "lamp",
+        "lomp"
+      ],
+      "questionId": 452
+    },
+    {
+      "options": [
+        "mand",
+        "mond"
+      ],
+      "questionId": 513
+    },
+    {
+      "options": [
+        "af",
+        "of"
+      ],
+      "questionId": 558
+    },
+    {
+      "options": [
+        "ander",
+        "onder"
+      ],
+      "questionId": 564
+    },
+    {
+      "options": [
+        "stap",
+        "stop"
+      ],
+      "questionId": 750
+    }
+  ],
+  "a, oo": [
+    {
+      "options": [
+        "nat",
+        "noot"
+      ],
+      "questionId": 549
+    }
+  ],
+  "a, u": [
+    {
+      "options": [
+        "dan",
+        "dun"
+      ],
+      "questionId": 179
+    },
+    {
+      "options": [
+        "na",
+        "nu"
+      ],
+      "questionId": 551
+    },
+    {
+      "options": [
+        "vallen",
+        "vullen"
+      ],
+      "questionId": 912
+    }
+  ],
+  "a, oe": [
+    {
+      "options": [
+        "blad",
+        "bloed"
+      ],
+      "questionId": 91
+    },
+    {
+      "options": [
+        "dan",
+        "doen"
+      ],
+      "questionId": 160
+    },
+    {
+      "options": [
+        "grap",
+        "groep"
+      ],
+      "questionId": 281
+    },
+    {
+      "options": [
+        "pas",
+        "poes"
+      ],
+      "questionId": 632
+    },
+    {
+      "options": [
+        "sap",
+        "soep"
+      ],
+      "questionId": 721
+    }
+  ],
+  "a, eu": [],
+  "a, ui": [
+    {
+      "options": [
+        "halen",
+        "huilen"
+      ],
+      "questionId": 332
+    },
+    {
+      "options": [
+        "raken",
+        "ruiken"
+      ],
+      "questionId": 683
+    }
+  ],
+  "aa, e": [
+    {
+      "options": [
+        "aan",
+        "en"
+      ],
+      "questionId": 199
+    },
+    {
+      "options": [
+        "haan",
+        "hen"
+      ],
+      "questionId": 307
+    },
+    {
+      "options": [
+        "maat",
+        "met"
+      ],
+      "questionId": 490
+    },
+    {
+      "options": [
+        "paar",
+        "per"
+      ],
+      "questionId": 614
+    }
+  ],
+  "aa, ee": [
+    {
+      "options": [
+        "baan",
+        "been"
+      ],
+      "questionId": 49
+    },
+    {
+      "options": [
+        "aan",
+        "een"
+      ],
+      "questionId": 184
+    },
+    {
+      "options": [
+        "gaan",
+        "geen"
+      ],
+      "questionId": 234
+    },
+    {
+      "options": [
+        "laag",
+        "leeg"
+      ],
+      "questionId": 428
+    },
+    {
+      "options": [
+        "maal",
+        "meel"
+      ],
+      "questionId": 480
+    },
+    {
+      "options": [
+        "maar",
+        "meer"
+      ],
+      "questionId": 481
+    },
+    {
+      "options": [
+        "naar",
+        "neer"
+      ],
+      "questionId": 530
+    },
+    {
+      "options": [
+        "waar",
+        "weer"
+      ],
+      "questionId": 928
+    }
+  ],
+  "aa, i": [
+    {
+      "options": [
+        "aan",
+        "in"
+      ],
+      "questionId": 346
+    },
+    {
+      "options": [
+        "maan",
+        "min"
+      ],
+      "questionId": 499
+    },
+    {
+      "options": [
+        "schaap",
+        "schip"
+      ],
+      "questionId": 695
+    },
+    {
+      "options": [
+        "staal",
+        "stil"
+      ],
+      "questionId": 744
+    }
+  ],
+  "aa, ie": [
+    {
+      "options": [
+        "daar",
+        "dier"
+      ],
+      "questionId": 155
+    },
+    {
+      "options": [
+        "haar",
+        "hier"
+      ],
+      "questionId": 313
+    },
+    {
+      "options": [
+        "zaak",
+        "ziek"
+      ],
+      "questionId": 971
+    }
+  ],
+  "aa, o": [
+    {
+      "options": [
+        "kaart",
+        "kort"
+      ],
+      "questionId": 402
+    },
+    {
+      "options": [
+        "laat",
+        "lot"
+      ],
+      "questionId": 456
+    },
+    {
+      "options": [
+        "maand",
+        "mond"
+      ],
+      "questionId": 513
+    },
+    {
+      "options": [
+        "aap",
+        "op"
+      ],
+      "questionId": 585
+    },
+    {
+      "options": [
+        "aarde",
+        "orde"
+      ],
+      "questionId": 593
+    },
+    {
+      "options": [
+        "raak",
+        "rok"
+      ],
+      "questionId": 676
+    }
+  ],
+  "aa, oo": [
+    {
+      "options": [
+        "baan",
+        "boon"
+      ],
+      "questionId": 98
+    },
+    {
+      "options": [
+        "daar",
+        "door"
+      ],
+      "questionId": 164
+    },
+    {
+      "options": [
+        "raak",
+        "rook"
+      ],
+      "questionId": 679
+    }
+  ],
+  "aa, u": [
+    {
+      "options": [
+        "haan",
+        "hun"
+      ],
+      "questionId": 334
+    }
+  ],
+  "aa, oe": [
+    {
+      "options": [
+        "kaars",
+        "koers"
+      ],
+      "questionId": 390
+    },
+    {
+      "options": [
+        "staal",
+        "stoel"
+      ],
+      "questionId": 746
+    },
+    {
+      "options": [
+        "vraag",
+        "vroeg"
+      ],
+      "questionId": 909
+    }
+  ],
+  "aa, eu": [
+    {
+      "options": [
+        "kaas",
+        "keus"
+      ],
+      "questionId": 371
+    },
+    {
+      "options": [
+        "klaar",
+        "kleur"
+      ],
+      "questionId": 383
+    }
+  ],
+  "aa, ui": [],
+  "e, ee": [
+    {
+      "options": [
+        "best",
+        "beest"
+      ],
+      "questionId": 51
+    },
+    {
+      "options": [
+        "en",
+        "een"
+      ],
+      "questionId": 184
+    },
+    {
+      "options": [
+        "het",
+        "heet"
+      ],
+      "questionId": 301
+    },
+    {
+      "options": [
+        "ver",
+        "veer"
+      ],
+      "questionId": 825
+    }
+  ],
+  "e, i": [
+    {
+      "options": [
+        "en",
+        "in"
+      ],
+      "questionId": 346
+    },
+    {
+      "options": [
+        "mes",
+        "mis"
+      ],
+      "questionId": 502
+    },
+    {
+      "options": [
+        "teen",
+        "tien"
+      ],
+      "questionId": 786
+    },
+    {
+      "options": [
+        "veer",
+        "vier"
+      ],
+      "questionId": 867
+    },
+    {
+      "options": [
+        "zetten",
+        "zitten"
+      ],
+      "questionId": 980
+    }
+  ],
+  "e, ie": [
+    {
+      "options": [
+        "net",
+        "niet"
+      ],
+      "questionId": 537
+    },
+    {
+      "options": [
+        "ver",
+        "vier"
+      ],
+      "questionId": 867
+    },
+    {
+      "options": [
+        "we",
+        "wie"
+      ],
+      "questionId": 938
+    }
+  ],
+  "e, o": [
+    {
+      "options": [
+        "les",
+        "los"
+      ],
+      "questionId": 455
+    },
+    {
+      "options": [
+        "stem",
+        "stom"
+      ],
+      "questionId": 749
+    },
+    {
+      "options": [
+        "teen",
+        "toen"
+      ],
+      "questionId": 790
+    }
+  ],
+  "e, oo": [
+    {
+      "options": [
+        "net",
+        "noot"
+      ],
+      "questionId": 549
+    },
+    {
+      "options": [
+        "ver",
+        "voor"
+      ],
+      "questionId": 890
+    }
+  ],
+  "e, u": [
+    {
+      "options": [
+        "goed",
+        "goud"
+      ],
+      "questionId": 271
+    },
+    {
+      "options": [
+        "hen",
+        "hun"
+      ],
+      "questionId": 334
+    },
+    {
+      "options": [
+        "het",
+        "hut"
+      ],
+      "questionId": 336
+    },
+    {
+      "options": [
+        "kennen",
+        "kunnen"
+      ],
+      "questionId": 412
+    },
+    {
+      "options": [
+        "reiken",
+        "ruiken"
+      ],
+      "questionId": 683
+    },
+    {
+      "options": [
+        "steen",
+        "steun"
+      ],
+      "questionId": 743
+    },
+    {
+      "options": [
+        "zoet",
+        "zout"
+      ],
+      "questionId": 993
+    },
+    {
+      "options": [
+        "zes",
+        "zus"
+      ],
+      "questionId": 997
+    }
+  ],
+  "e, oe": [
+    {
+      "options": [
+        "nemen",
+        "noemen"
+      ],
+      "questionId": 544
+    },
+    {
+      "options": [
+        "vet",
+        "voet"
+      ],
+      "questionId": 884
+    }
+  ],
+  "e, eu": [],
+  "e, ui": [],
+  "ee, i": [
+    {
+      "options": [
+        "een",
+        "in"
+      ],
+      "questionId": 346
+    }
+  ],
+  "ee, ie": [
+    {
+      "options": [
+        "teen",
+        "tien"
+      ],
+      "questionId": 786
+    },
+    {
+      "options": [
+        "veer",
+        "vier"
+      ],
+      "questionId": 867
+    }
+  ],
+  "ee, o": [
+    {
+      "options": [
+        "veel",
+        "vol"
+      ],
+      "questionId": 887
+    },
+    {
+      "options": [
+        "zee",
+        "zo"
+      ],
+      "questionId": 981
+    }
+  ],
+  "ee, oo": [
+    {
+      "options": [
+        "been",
+        "boon"
+      ],
+      "questionId": 98
+    },
+    {
+      "options": [
+        "breed",
+        "brood"
+      ],
+      "questionId": 115
+    },
+    {
+      "options": [
+        "veer",
+        "voor"
+      ],
+      "questionId": 890
+    }
+  ],
+  "ee, u": [
+    {
+      "options": [
+        "heet",
+        "hut"
+      ],
+      "questionId": 336
+    },
+    {
+      "options": [
+        "nee",
+        "nu"
+      ],
+      "questionId": 551
+    }
+  ],
+  "ee, oe": [
+    {
+      "options": [
+        "teen",
+        "toen"
+      ],
+      "questionId": 790
+    }
+  ],
+  "ee, eu": [
+    {
+      "options": [
+        "steen",
+        "steun"
+      ],
+      "questionId": 743
+    }
+  ],
+  "ee, ui": [
+    {
+      "options": [
+        "teen",
+        "tuin"
+      ],
+      "questionId": 799
+    }
+  ],
+  "i, ie": [
+    {
+      "options": [
+        "vis",
+        "vies"
+      ],
+      "questionId": 869
+    }
+  ],
+  "i, o": [
+    {
+      "options": [
+        "kip",
+        "kop"
+      ],
+      "questionId": 400
+    },
+    {
+      "options": [
+        "kist",
+        "kost"
+      ],
+      "questionId": 403
+    },
+    {
+      "options": [
+        "tien",
+        "toen"
+      ],
+      "questionId": 790
+    },
+    {
+      "options": [
+        "vis",
+        "vos"
+      ],
+      "questionId": 897
+    }
+  ],
+  "i, oo": [
+    {
+      "options": [
+        "ik",
+        "ook"
+      ],
+      "questionId": 579
+    }
+  ],
+  "i, u": [
+    {
+      "options": [
+        "licht",
+        "lucht"
+      ],
+      "questionId": 457
+    }
+  ],
+  "i, oe": [
+    {
+      "options": [
+        "stil",
+        "stoel"
+      ],
+      "questionId": 746
+    }
+  ],
+  "eu, i": [],
+  "i, ui": [],
+  "ie, o": [
+    {
+      "options": [
+        "vies",
+        "vos"
+      ],
+      "questionId": 897
+    },
+    {
+      "options": [
+        "zien",
+        "zon"
+      ],
+      "questionId": 986
+    }
+  ],
+  "ie, oo": [
+    {
+      "options": [
+        "dier",
+        "door"
+      ],
+      "questionId": 164
+    },
+    {
+      "options": [
+        "niet",
+        "noot"
+      ],
+      "questionId": 549
+    },
+    {
+      "options": [
+        "vier",
+        "voor"
+      ],
+      "questionId": 890
+    },
+    {
+      "options": [
+        "zien",
+        "zoon"
+      ],
+      "questionId": 989
+    }
+  ],
+  "ie, u": [],
+  "ie, oe": [
+    {
+      "options": [
+        "tien",
+        "toen"
+      ],
+      "questionId": 790
+    }
+  ],
+  "eu, ie": [],
+  "ie, ui": [
+    {
+      "options": [
+        "tien",
+        "tuin"
+      ],
+      "questionId": 799
+    }
+  ],
+  "o, oo": [
+    {
+      "options": [
+        "bord",
+        "boord"
+      ],
+      "questionId": 99
+    },
+    {
+      "options": [
+        "bos",
+        "boos"
+      ],
+      "questionId": 100
+    },
+    {
+      "options": [
+        "om",
+        "oom"
+      ],
+      "questionId": 580
+    },
+    {
+      "options": [
+        "rok",
+        "rook"
+      ],
+      "questionId": 679
+    },
+    {
+      "options": [
+        "zon",
+        "zoon"
+      ],
+      "questionId": 989
+    }
+  ],
+  "o, u": [
+    {
+      "options": [
+        "bos",
+        "bus"
+      ],
+      "questionId": 124
+    },
+    {
+      "options": [
+        "horen",
+        "huren"
+      ],
+      "questionId": 335
+    }
+  ],
+  "o, oe": [
+    {
+      "options": [
+        "god",
+        "goed"
+      ],
+      "questionId": 269
+    }
+  ],
+  "eu, o": [
+    {
+      "options": [
+        "geboren",
+        "gebeuren"
+      ],
+      "questionId": 223
+    },
+    {
+      "options": [
+        "koken",
+        "keuken"
+      ],
+      "questionId": 370
+    }
+  ],
+  "o, ui": [],
+  "oo, u": [
+    {
+      "options": [
+        "boos",
+        "bus"
+      ],
+      "questionId": 124
+    },
+    {
+      "options": [
+        "doos",
+        "dus"
+      ],
+      "questionId": 180
+    },
+    {
+      "options": [
+        "ooit",
+        "uit"
+      ],
+      "questionId": 803
+    }
+  ],
+  "oe, oo": [],
+  "eu, oo": [],
+  "oo, ui": [],
+  "oe, u": [
+    {
+      "options": [
+        "dun",
+        "doen"
+      ],
+      "questionId": 160
+    }
+  ],
+  "eu, u": [],
+  "u, ui": [],
+  "a, uu": [],
+  "aa, uu": [
+    {
+      "options": [
+        "daar",
+        "duur"
+      ],
+      "questionId": 181
+    },
+    {
+      "options": [
+        "haar",
+        "huur"
+      ],
+      "questionId": 337
+    }
+  ],
+  "e, uu": [
+    {
+      "options": [
+        "ver",
+        "vuur"
+      ],
+      "questionId": 913
+    }
+  ],
+  "ee, uu": [
+    {
+      "options": [
+        "veer",
+        "vuur"
+      ],
+      "questionId": 913
+    }
+  ],
+  "i, uu": [],
+  "ie, uu": [
+    {
+      "options": [
+        "dier",
+        "duur"
+      ],
+      "questionId": 181
+    },
+    {
+      "options": [
+        "hier",
+        "huur"
+      ],
+      "questionId": 337
+    },
+    {
+      "options": [
+        "vier",
+        "vuur"
+      ],
+      "questionId": 913
+    }
+  ],
+  "o, uu": [],
+  "oo, uu": [
+    {
+      "options": [
+        "door",
+        "duur"
+      ],
+      "questionId": 181
+    },
+    {
+      "options": [
+        "oor",
+        "uur"
+      ],
+      "questionId": 808
+    },
+    {
+      "options": [
+        "voor",
+        "vuur"
+      ],
+      "questionId": 913
+    }
+  ],
+  "u, uu": [],
+  "oe, uu": [],
+  "eu, uu": [],
+  "ui, uu": [],
+  "au/ou, a": [],
+  "au/ou, aa": [],
+  "au/ou, e": [],
+  "au/ou, ee": [
+    {
+      "options": [
+        "zee",
+        "zou"
+      ],
+      "questionId": 992
+    }
+  ],
+  "au/ou, i": [
+    {
+      "options": [
+        "fit",
+        "fout"
+      ],
+      "questionId": 218
+    }
+  ],
+  "au/ou, ie": [
+    {
+      "options": [
+        "ieder",
+        "ouder"
+      ],
+      "questionId": 595
+    }
+  ],
+  "au/ou, o": [
+    {
+      "options": [
+        "god",
+        "goud"
+      ],
+      "questionId": 271
+    },
+    {
+      "options": [
+        "zo",
+        "zou"
+      ],
+      "questionId": 992
+    }
+  ],
+  "au/ou, oo": [],
+  "au/ou, u": [],
+  "au/ou, oe": [
+    {
+      "options": [
+        "goed",
+        "goud"
+      ],
+      "questionId": 271
+    },
+    {
+      "options": [
+        "zoet",
+        "zout"
+      ],
+      "questionId": 993
+    }
+  ],
+  "au/ou, eu": [],
+  "au/ou, ui": [],
+  "ei/ij, a": [
+    {
+      "options": [
+        "gat",
+        "geit"
+      ],
+      "questionId": 236
+    },
+    {
+      "options": [
+        "raken",
+        "reiken"
+      ],
+      "questionId": 663
+    },
+    {
+      "options": [
+        "gras",
+        "grijs"
+      ],
+      "questionId": 277
+    },
+    {
+      "options": [
+        "ja",
+        "jij"
+      ],
+      "questionId": 352
+    },
+    {
+      "options": [
+        "laken",
+        "lijken"
+      ],
+      "questionId": 447
+    },
+    {
+      "options": [
+        "man",
+        "mijn"
+      ],
+      "questionId": 496
+    },
+    {
+      "options": [
+        "pan",
+        "pijn"
+      ],
+      "questionId": 619
+    }
+  ],
+  "ei/ij, aa": [
+    {
+      "options": [
+        "traan",
+        "trein"
+      ],
+      "questionId": 795
+    },
+    {
+      "options": [
+        "maan",
+        "mijn"
+      ],
+      "questionId": 496
+    },
+    {
+      "options": [
+        "raak",
+        "rijk"
+      ],
+      "questionId": 672
+    }
+  ],
+  "ei/ij, e": [
+    {
+      "options": [
+        "me",
+        "mij"
+      ],
+      "questionId": 495
+    },
+    {
+      "options": [
+        "pen",
+        "pijn"
+      ],
+      "questionId": 619
+    },
+    {
+      "options": [
+        "rest",
+        "rijst"
+      ],
+      "questionId": 673
+    },
+    {
+      "options": [
+        "we",
+        "wij"
+      ],
+      "questionId": 940
+    }
+  ],
+  "ei/ij, ee": [
+    {
+      "options": [
+        "zee",
+        "zij"
+      ],
+      "questionId": 975
+    }
+  ],
+  "ei/ij, i": [
+    {
+      "options": [
+        "fit",
+        "feit"
+      ],
+      "questionId": 211
+    },
+    {
+      "options": [
+        "min",
+        "mijn"
+      ],
+      "questionId": 496
+    }
+  ],
+  "ei/ij, ie": [
+    {
+      "options": [
+        "ziel",
+        "zeil"
+      ],
+      "questionId": 965
+    },
+    {
+      "options": [
+        "wie",
+        "wij"
+      ],
+      "questionId": 940
+    },
+    {
+      "options": [
+        "zien",
+        "zijn"
+      ],
+      "questionId": 976
+    }
+  ],
+  "ei/ij, o": [
+    {
+      "options": [
+        "koken",
+        "kijken"
+      ],
+      "questionId": 373
+    },
+    {
+      "options": [
+        "rok",
+        "rijk"
+      ],
+      "questionId": 672
+    },
+    {
+      "options": [
+        "zo",
+        "zij"
+      ],
+      "questionId": 975
+    },
+    {
+      "options": [
+        "zon",
+        "zijn"
+      ],
+      "questionId": 976
+    }
+  ],
+  "ei/ij, oo": [
+    {
+      "options": [
+        "rook",
+        "rijk"
+      ],
+      "questionId": 672
+    },
+    {
+      "options": [
+        "zoon",
+        "zijn"
+      ],
+      "questionId": 976
+    }
+  ],
+  "ei/ij, u": [
+    {
+      "options": [
+        "u",
+        "ei"
+      ],
+      "questionId": 192
+    },
+    {
+      "options": [
+        "geluk",
+        "gelijk"
+      ],
+      "questionId": 239
+    }
+  ],
+  "ei/ij, oe": [
+    {
+      "options": [
+        "hoe",
+        "hij"
+      ],
+      "questionId": 314
+    }
+  ],
+  "ei/ij, eu": [
+    {
+      "options": [
+        "keuken",
+        "kijken"
+      ],
+      "questionId": 373
+    },
+    {
+      "options": [
+        "leuk",
+        "lijk"
+      ],
+      "questionId": 446
+    }
+  ],
+  "ei/ij, ui": [
+    {
+      "options": [
+        "ruiken",
+        "reiken"
+      ],
+      "questionId": 663
+    },
+    {
+      "options": [
+        "bui",
+        "bij"
+      ],
+      "questionId": 79
+    },
+    {
+      "options": [
+        "buiten",
+        "bijten"
+      ],
+      "questionId": 81
+    }
+  ],
+  "eu, oe": [],
+  "oe, ui": [
+    {
+      "options": [
+        "toen",
+        "tuin"
+      ],
+      "questionId": 799
+    }
+  ],
+  "eu, ui": []
+}
